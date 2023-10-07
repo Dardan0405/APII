@@ -1,0 +1,609 @@
+
+{
+    
+    "latest":[
+        {
+            "id":"1",
+            "img":"../src/assets/Blog/image1.webp",
+            "date":{
+                "id":"date1",
+                "formattedMessage":"UI/UX Design - Aug 22,2022"
+            },
+            "title":{
+                "id":"14",
+                "formattedMessage":"14 Practical examples of good UX writing"
+            },
+            "text":{
+                "id":"text1",
+                "formattedMessage":"To help both your writing and your reader's experience, we have prepared these 14 helpful UX writing examples. Wether you're a beginner or an experienced author, it always... "
+            },
+            "Link":{
+                "id":"ReadMore",
+                "formattedMessage":"Read more"
+            },
+            "img1":"./images/Blog/Latest/image1.webp",
+            "to":"articlelatest1",
+            "dateShared":{
+                "id":"date1",
+                "formattedMessage":"UI/UX Design - Aug 22,2022"
+            },
+            "titleShared":{
+                "id":"14",
+                "formattedMessage":"14 Practical examples of good UX writing"
+            },
+            "text1":{
+                "id":"latestArticles11",
+                "formattedMessage":"1. Clear Navigation Labels: Well-defined navigation labels, such as Home, About Us, and Contact, make it easy for users to find their way around a website or app. Good UX writing ensures that these labels are concise and descriptive, reducing confusion and improving user satisfaction."
+            },
+            "text2":{
+                "id":"latestArticles12",
+                "formattedMessage":"2. Error Messages with Solutions: When a user encounters an error, it's essential to not only inform them of the problem but also provide a clear solution. For instance, instead of a vague error message, saying, Please enter a valid email address guides users on how to rectify the issue."
+            },
+            "text3":{
+                "id":"latestArticles13",
+                "formattedMessage":"3. Progress Indicators: Progress indicators in multi-step processes, like form submissions or account setup, are essential for keeping users informed about their progress. A well-written progress indicator tells users which step they are on and what's next, reducing uncertainty."
+            },
+            "text4":{
+                "id":"latestArticles14",
+                "formattedMessage":"4. Effective Call-to-Action (CTA) Text: The text used on buttons and links should be action-oriented and convey precisely what will happen when clicked. For example, a Sign Up Now CTA is more compelling and informative than a generic Submit button."
+            },
+            "img2":"./images/Blog/Latest/image1.1.webp",
+            "text5":{
+                "id":"latestArticles15",
+                "formattedMessage":"5. Inclusive Language: Good UX writing incorporates inclusive language that welcomes users from diverse backgrounds and avoids any unintentional biases. It ensures that everyone feels respected and included while using a product or service."
+            },
+            "text6":{
+                "id":"latestArticles16",
+                "formattedMessage":"6. Tooltips for Guidance: Tooltips provide helpful hints or explanations when users hover over or click on an element. They should be concise, informative, and contextually relevant, aiding users without overwhelming them with information."
+            },
+            "text7":{
+                "id":"latestArticles17",
+                "formattedMessage":"7. Onboarding Instructions: When users first interact with an app or website, clear onboarding instructions can guide them through the initial setup process. Well-crafted onboarding messages help users get started quickly and confidently."
+            },
+            "text8":{
+                "id":"latestArticles18",
+                "formattedMessage":"8. User-Friendly Form Labels: Form fields should have clear and concise labels that explain what information is required. Good UX writing avoids ambiguity and makes it easy for users to complete forms accurately."
+            },
+            "text9":{
+                "id":"latestArticles19",
+                "formattedMessage":"9. Confirmation Messages: After a user takes an action, like submitting a form or making a purchase, a well-written confirmation message provides reassurance and clarifies the next steps, enhancing the overall user experience."
+            },
+            "text10":{
+                "id":"latestArticles10",
+                "formattedMessage":"10. Product Descriptions: In e-commerce, detailed and informative product descriptions are crucial. They should highlight key features, benefits, and specifications in a way that helps users make informed purchasing decisions."
+            },
+           "text11":{
+            "id":"latestArticles111",
+            "formattedMessage":"11. Search Result Summaries: When users search for information, concise summaries in search results can help them quickly determine which result is most relevant to their query. Effective UX writing here improves discoverability."
+           },
+           "text12":{
+            "id":"latestArticles112",
+            "formattedMessage":"12. Privacy and Consent Messaging: In compliance with data protection regulations, UX writing should clearly communicate privacy policies and obtain user consent for data collection and processing. Transparency builds trust with users."
+           },
+           "text13":{
+            "id":"latestArticles113",
+            "formattedMessage":"13. Error Prevention Messages: Good UX writing can also prevent errors. For example, if a user is about to delete important data, a confirmation message that asks, Are you sure you want to delete this item? can prevent accidental actions."
+           },
+           "text14":{
+            "id":"latestArticles114",
+            "formattedMessage":"14. In-App Guidance: Onboarding tours, tooltips, and in-app guidance can provide users with helpful information as they explore a new product. Such guidance should be concise and appear at the right moments, enhancing user understanding."
+           },
+           "Author":{
+            "id":"Author1",
+            "formattedMessage":"Melinda Duraku"
+           }
+        
+            
+        },
+        {
+            "id":"2",
+            "img":"../src/assets/Blog/image2.webp",
+            "date":{
+                "id":"date2",
+                "formattedMessage":"Development - Aug 01,2022"
+            },
+            "title":{
+                "id":"How",
+                "formattedMessage":"How to build an effective product development team"
+            },
+            "text":{
+                "id":"text2",
+                "formattedMessage":"At every company, product development is a critical function that determines the long-term success. We will discuss how to choose the right development team on board..."
+            },
+            "Link":{
+                "id":"ReadMore",
+                "formattedMessage":"Read more"
+            },
+            "to":"articlelatest2",
+            "img1":"./images/Blog/Latest/image2.webp",
+            "dateShared":{
+                "id":"date2",
+                "formattedMessage":"Development - Aug 01,2022"
+            },
+            "titleShared":{
+                "id":"How",
+                "formattedMessage":"How to build an effective product development team ?"
+            },
+            "text1":{
+                "id":"latestArticles21",
+                "formattedMessage":"1. Define Your Product Vision: Start by defining a clear product vision. Your team needs a shared understanding of what you aim to achieve. This vision will guide your team's efforts and decisions throughout the development process."
+            },
+            "text2":{
+                "id":"latestArticles22",
+                "formattedMessage":"2. Diverse Skill Sets: Assemble a team with diverse skill sets. This includes developers, designers, product managers, quality assurance professionals, and domain experts. Each role brings unique perspectives and expertise to the table."
+            },
+            "text3":{
+                "id":"latestArticles23",
+                "formattedMessage":"3. Strong Leadership: Effective product development teams require strong leadership. A capable leader can provide direction, prioritize tasks, and resolve conflicts, ensuring the team stays on track."
+            },
+            "text4":{
+                "id":"latestArticles24",
+                "formattedMessage":"4. Clear Roles and Responsibilities: Define clear roles and responsibilities for each team member. This minimizes confusion and overlap and ensures that everyone knows their contributions are valued."
+            },
+            "img2":"./images/Blog/Latest/image2.2.webp",
+            "text5":{
+                "id":"latestArticles25",
+                "formattedMessage":"5. Communication Skills: Communication is key. Team members should be able to express their ideas and feedback clearly and constructively. Regular team meetings and open channels for communication foster collaboration."
+            },
+            "text6":{
+                "id":"latestArticles26",
+                "formattedMessage":"6. Empowerment: Empower your team to make decisions and take ownership of their work. Autonomy encourages creativity and innovation and motivates team members to excel."
+            },
+            "text7":{
+                "id":"latestArticles27",
+                "formattedMessage":"7. Agile Methodologies: Consider adopting agile methodologies like Scrum or Kanban. These frameworks promote flexibility, adaptability, and iterative development, allowing teams to respond to changes efficiently."
+            },
+            "text8":{
+                "id":"latestArticles28",
+                "formattedMessage":"8. User-Centric Mindset: Cultivate a user-centric mindset among your team members. Understanding user needs and preferences is essential for creating products that resonate with your target audience."
+            },
+            "text9":{
+                "id":"latestArticles29",
+                "formattedMessage":"9. Continuous Learning: Encourage a culture of continuous learning. Product development is an evolving field, and team members should stay updated on the latest technologies and best practices."
+            },
+            "text10":{
+                "id":"latestArticles210",
+                "formattedMessage":"10. Testing and Quality Assurance: Allocate resources for thorough testing and quality assurance. Ensuring your product is reliable and bug-free is essential for customer satisfaction and success in the market."
+            },
+           "text11":{
+            "id":"latestArticles211",
+            "formattedMessage":"11. Effective Collaboration Tools: Invest in collaboration tools that facilitate teamwork, such as project management software, version control systems, and communication platforms like Slack or Microsoft Teams."
+           },
+           "text12":{
+            "id":"latestArticles212",
+            "formattedMessage":"12. Feedback Loops: Create feedback loops within your team and with stakeholders. Regularly gather input from customers, end-users, and other relevant parties to refine your product and development processes."
+           },
+           "text13":{
+            "id":"latestArticles213",
+            "formattedMessage":"13. Risk Management: Develop a robust risk management strategy. Identify potential risks early and have contingency plans in place to address them, reducing the impact on your project's timeline and budget."
+           },
+           "text14":{
+            "id":"latestArticles214",
+            "formattedMessage":"14. Celebrate Achievements: Recognize and celebrate achievements, both big and small. Acknowledging the team's hard work and successes boosts morale and fosters a positive working environment."
+           },
+           "Author":{
+            "id":"Author1",
+            "formattedMessage":"Hedon Bardhi"
+           }
+        },
+        {
+            "id":"3",
+            "img":"../src/assets/Blog/image3.webp",
+            "date":{
+                "id":"date3",
+                "formattedMessage":"Tech - Jul 16,2022"
+            },
+            "title":{
+                "id":"Engagement",
+                "formattedMessage":"Engagement models in IT industry"
+            },
+            "text":{
+                "id":"text3",
+                "formattedMessage":"There are many different kinds of engagement models, and companies must select the one that is most suitable for them. Let's take a look at the most popular Engagement Models that are in..."
+            },
+            "Link":{
+                "id":"ReadMore",
+                "formattedMessage":"Read more"
+            },
+            "to":"articlelatest3",
+            "img1":"./images/Blog/Latest/image3.webp",
+            "dateShared":{
+                "id":"date3",
+                "formattedMessage":"Tech - Jul 16,2022"
+            },
+            "titleShared":{
+                "id":"Engagement",
+                "formattedMessage":"Engagement models in IT industry"
+            },
+            "text1":{
+                "id":"latestArticles31",
+                "formattedMessage":"1. Fixed Price Model: In the Fixed Price engagement model, the client and the IT service provider agree on a set price for the entire project. This model provides budget certainty and is suitable for well-defined, low-risk projects with clear requirements."
+            },
+            "text2":{
+                "id":"latestArticles32",
+                "formattedMessage":"2. Time and Materials Model (T&M): In a Time and Materials engagement, the client pays for the actual time spent on the project and the materials used. This model is flexible and ideal for projects where requirements may change during development."
+            },
+            "text3":{
+                "id":"latestArticles33",
+                "formattedMessage":"3. Dedicated Team Model: In the Dedicated Team model, the client hires a dedicated team of developers, designers, and other professionals who work exclusively on their project. This model offers full control and is suitable for long-term projects with evolving requirements. "
+            },
+            "text4":{
+                "id":"latestArticles34",
+                "formattedMessage":"4. Staff Augmentation Model: Staff Augmentation involves adding IT professionals to the client's in-house team for a specific duration. It is beneficial when clients need additional expertise or resources for a short-term project."
+            },
+            "img2":"./images/Blog/Latest/image3.3.webp",
+            "text5":{
+                "id":"latestArticles35",
+                "formattedMessage":"5. Agile Development Model: Agile is an iterative and flexible approach that focuses on collaboration and customer feedback. Agile methodologies like Scrum and Kanban are widely used in the IT industry to adapt to changing requirements and deliver incremental updates."
+            },
+            "text6":{
+                "id":"latestArticles36",
+                "formattedMessage":"6. Waterfall Model: The Waterfall model is a linear and sequential approach to software development. It divides the project into distinct phases, such as requirements, design, development, testing, and deployment. It's suitable for well-defined projects with minimal changes expected."
+            },
+            "text7":{
+                "id":"latestArticles37",
+                "formattedMessage":"7. Hybrid Model: A Hybrid engagement model combines elements of both Fixed Price and Time and Materials models. It allows for flexibility while providing some cost predictability, making it suitable for projects with evolving requirements but budget constraints."
+            },
+            "text8":{
+                "id":"latestArticles38",
+                "formattedMessage":"8. Outcome-Based Model: In this model, the client pays based on the achievement of specific outcomes or key performance indicators (KPIs). It aligns the service provider's success with the client's goals and encourages a results-oriented approach."
+            },
+            "text9":{
+                "id":"latestArticles39",
+                "formattedMessage":"9. Build-Operate-Transfer (BOT) Model: In a BOT engagement, the IT service provider builds and operates a project for a specified period before transferring ownership and operation to the client. This is often used for setting up offshore development centers."
+            },
+            "text10":{
+                "id":"latestArticles310",
+                "formattedMessage":"10. Subscription-Based Model: This model involves clients paying a regular subscription fee for access to software or IT services. It's common for Software as a Service (SaaS) offerings and cloud-based solutions."
+            },
+           "text11":{
+            "id":"latestArticles311",
+            "formattedMessage":"11. Joint Venture Model: In a Joint Venture, two or more organizations collaborate to develop a product or service. This model shares risks and rewards, making it suitable for ambitious, high-cost projects."
+           },
+           "text12":{
+            "id":"latestArticles312",
+            "formattedMessage":"12. Offshore Development Model: Companies engage offshore development teams located in different countries to reduce costs while accessing a global talent pool. Communication and time zone differences are key considerations."
+           },
+           "text13":{
+            "id":"latestArticles313",
+            "formattedMessage":"13. Nearshore Development Model: Similar to offshore development, the Nearshore model involves collaborating with development teams in neighboring or nearby countries. It offers advantages like better time zone alignment and cultural compatibility."
+           },
+           "text14":{
+            "id":"latestArticles314",
+            "formattedMessage":"14. Onshore Development Model: In the Onshore model, development teams are located within the client's country. This model is often chosen for projects requiring close proximity, frequent face-to-face meetings, or compliance with local regulations."
+           },
+           "Author":{
+            "id":"Author1",
+            "formattedMessage":"Melinda Zogu"
+           }
+        },
+        {
+            "id":"4",
+            "img":"../src/assets/Blog/image4.webp",
+            "date":{
+                "id":"date4",
+                "formattedMessage":"Tech - Jun 27,2022"
+            },
+            "title":{
+                "id":"title4",
+                "formattedMessage":"Ylliri is designing tech solutions fot the post-pandemic world"
+            },
+            "text":{
+                "id":"text4",
+                "formattedMessage":"Advances in AI, robotics and automation have accelerated over the course of pandemic. Ylliri is always trying to find innovative solutions to..."
+            },
+            "Link":{
+                "id":"ReadMore",
+                "formattedMessage":"Read more"
+            },
+            "to":"articlelatest4",
+            "img1":"./images/Blog/Latest/image4.webp",
+            "dateShared":{
+                "id":"date4",
+                "formattedMessage":"Tech - Jun 27,2022"
+            },
+            "titleShared":{
+                "id":"title4",
+                "formattedMessage":"Ylliri is designing tech solutions fot the post-pandemic world"
+            },
+            "text1":{
+                "id":"latestArticles41",
+                "formattedMessage":"1. Ylliri's Vision for the Post-Pandemic World: Ylliri, as a forward-thinking tech company, envisions a post-pandemic world that embraces innovation and technology to overcome challenges and create opportunities."
+            },
+            "text2":{
+                "id":"latestArticles42",
+                "formattedMessage":"2. Remote Work Solutions: Ylliri recognizes that remote work is here to stay. The company is developing cutting-edge solutions to enhance remote collaboration, productivity, and the overall work-from-home experience."
+            },
+            "text3":{
+                "id":"latestArticles43",
+                "formattedMessage":"3. HealthTech Advancements: Ylliri is at the forefront of HealthTech innovation. The company is working on technologies that promote telemedicine, remote patient monitoring, and data-driven healthcare solutions to improve patient care "
+            },
+            "text4":{
+                "id":"latestArticles44",
+                "formattedMessage":"4. Digital Health Passports: Ylliri is actively developing digital health passports and contactless health verification systems to facilitate safe travel and access to public spaces in a post-pandemic world."
+            },
+            "img2":"./images/Blog/Latest/image4.4.webp",
+            "text5":{
+                "id":"latestArticles45",
+                "formattedMessage":"5. Smart Cities and Urban Planning: Ylliri is committed to building smarter cities and urban areas. Through IoT (Internet of Things) solutions, the company aims to enhance public services, optimize resource allocation, and improve the quality of life for urban residents."
+            },
+            "text6":{
+                "id":"latestArticles46",
+                "formattedMessage":"6. E-commerce and Contactless Payments: Ylliri understands the shift in consumer behavior towards online shopping and contactless payments. The company is creating robust e-commerce platforms and secure digital payment solutions."
+            },
+            "text7":{
+                "id":"latestArticles47",
+                "formattedMessage":"7. Remote Learning and EdTech: Ylliri recognizes the importance of remote learning. The company is developing educational technology (EdTech) solutions to make online learning more engaging, accessible, and effective."
+            },
+            "text8":{
+                "id":"latestArticles48",
+                "formattedMessage":"8. Supply Chain Resilience: Ylliri is working on supply chain solutions that enhance resilience and agility. These technologies help businesses adapt to disruptions and ensure the efficient flow of goods."
+            },
+            "text9":{
+                "id":"latestArticles49",
+                "formattedMessage":"9. Digital Transformation: Ylliri assists businesses in their digital transformation journeys. The company's expertise lies in helping organizations adapt to new digital norms and leverage technology for growth."
+            },
+            "text10":{
+                "id":"latestArticles410",
+                "formattedMessage":"10. AI and Data Analytics: Ylliri harnesses the power of artificial intelligence (AI) and data analytics to provide insights, automate processes, and make data-driven decisions that are vital in the post-pandemic world."
+            },
+           "text11":{
+            "id":"latestArticles411",
+            "formattedMessage":"11. Cybersecurity: Ylliri understands the increased importance of cybersecurity in a digital-first world. The company offers cutting-edge cybersecurity solutions to protect sensitive data and systems."
+           },
+           "text12":{
+            "id":"latestArticles412",
+            "formattedMessage":"12. Environmental Sustainability: Ylliri believes that the post-pandemic world should also be a more sustainable one. The company is developing solutions to help organizations reduce their environmental footprint and contribute to a greener future."
+           },
+           "text13":{
+            "id":"latestArticles413",
+            "formattedMessage":"13. Digital Entertainment: Recognizing the need for entertainment in challenging times, Ylliri is innovating in the digital entertainment space, creating immersive experiences and content for users to enjoy from the safety of their homes."
+           },
+           "text14":{
+            "id":"latestArticles414",
+            "formattedMessage":"14. Community Engagement: Ylliri is committed to community engagement and social responsibility. The company is actively involved in initiatives that use technology to address social and humanitarian challenges arising from the pandemic."
+           },
+           "Author":{
+            "id":"Author1",
+            "formattedMessage":"Adem Likaj"
+           }
+        
+        }
+    ],
+    
+
+    
+    "LastRow":[
+        {
+            "id":"last1",
+           
+            "date":{
+                "id":"LastDate1",
+                "formattedMessage":"Gaming - Apr 19,2022"
+            },
+            "title":{
+                "id":"TitleLast1",
+                "formattedMessage":"How to create a video game character? The basics"
+            },
+          
+            "Link":{
+                "id":"ReadMore",
+                "formattedMessage":"Read more"
+            }
+            
+        },
+        {
+            "id":"last2",
+           
+            "date":{
+                "id":"LastDate2",
+                "formattedMessage":"UI/UX Design - Apr 08,2022"
+            },
+            "title":{
+                "id":"TitleLast2",
+                "formattedMessage":"Design and think different. Designing modern UI/UX"
+            },
+          
+            "Link":{
+                "id":"ReadMore",
+                "formattedMessage":"Read more"
+            }
+            
+        },
+        {
+            "id":"last3",
+           
+            "date":{
+                "id":"LastDate3",
+                "formattedMessage":"Gaming - Apr 19,2022"
+            },
+            "title":{
+                "id":"TitleLast3",
+                "formattedMessage":"Animation & motion graphics trends for 2022"
+            },
+          
+            "Link":{
+                "id":"ReadMore",
+                "formattedMessage":"Read more"
+            }
+            
+        },
+        {
+            "id":"last4",
+           
+            "date":{
+                "id":"LastDate1",
+                "formattedMessage":"Airplane - Apr 19,2022"
+            },
+            "title":{
+                "id":"TitleLast1",
+                "formattedMessage":"How to create a video game character? The basics"
+            },
+          
+            "Link":{
+                "id":"ReadMore",
+                "formattedMessage":"Read more"
+            }
+            
+        },
+        {
+            "id":"last5",
+           
+            "date":{
+                "id":"LastDate2",
+                "formattedMessage":"UI/UX Design - Apr 08,2022"
+            },
+            "title":{
+                "id":"TitleLast2",
+                "formattedMessage":"Design and think different. Designing modern UI/UX"
+            },
+          
+            "Link":{
+                "id":"ReadMore",
+                "formattedMessage":"Read more"
+            }
+            
+        },
+        {
+            "id":"last6",
+           
+            "date":{
+                "id":"LastDate3",
+                "formattedMessage":"Gaming - Apr 19,2022"
+            },
+            "title":{
+                "id":"TitleLast3",
+                "formattedMessage":"Animation & motion graphics trends for 2022"
+            },
+          
+            "Link":{
+                "id":"ReadMore",
+                "formattedMessage":"Read more"
+            }
+            
+        }
+    ],
+    
+    
+        "Explore":[
+            {
+                "id":"Exploreid1",
+               
+                "date":{
+                    "id":"Explore1",
+                    "formattedMessage":"Branding - Jun 23,2022"
+                },
+                "title":{
+                    "id":"TitleExplore1",
+                    "formattedMessage":"What is brand ?"
+                },
+               
+                "Link":{
+                    "id":"ReadMore",
+                    "formattedMessage":"Read more"
+                }
+                
+            },
+            
+                {
+                    "id":"Exploreid2",
+                   
+                    "date":{
+                        "id":"Explore2",
+                        "formattedMessage":"UI/UX Design - Jun 05,2022"
+                    },
+                    "title":{
+                        "id":"TitleExplore2",
+                        "formattedMessage":"How do you mix technical and creative minds?"
+                    },
+                   
+                    "Link":{
+                        "id":"ReadMore",
+                        "formattedMessage":"Read more"
+                    }
+                    
+                },
+                {
+                    "id":"Expoloreid3",
+                   
+                    "date":{
+                        "id":"Explore3",
+                        "formattedMessage":"UI/UX Design - Jun 01,2022"
+                    },
+                    "title":{
+                        "id":"TitleExplore3",
+                        "formattedMessage":"A step-by-step guide on how to build a successful website"
+                    },
+                   
+                    "Link":{
+                        "id":"ReadMore",
+                        "formattedMessage":"Read more"
+                    }
+                    
+                },
+                {
+                    "id":"Exploreid4",
+                   
+                    "date":{
+                        "id":"Explore4",
+                        "formattedMessage":"UI/UX Design - Jun 29,2022"
+                    },
+                    "title":{
+                        "id":"TitleExplore4",
+                        "formattedMessage":"How and why we do UX research ?"
+                    },
+                   
+                    "Link":{
+                        "id":"ReadMore",
+                        "formattedMessage":"Read more"
+                    }
+                    
+                },
+                {
+                    "id":"Exploreid5",
+                   
+                    "date":{
+                        "id":"Explore5",
+                        "formattedMessage":"SEO - May 20,2022"
+                    },
+                    "title":{
+                        "id":"TitleExplore5",
+                        "formattedMessage":"A complete guide to search engine optimization for beginners"
+                    },
+                   
+                    "Link":{
+                        "id":"ReadMore",
+                        "formattedMessage":"Read more"
+                    }
+                    
+                },
+                {
+                    "id":"Exploreid6",
+                   
+                    "date":{
+                        "id":"Explore6",
+                        "formattedMessage":"Development - May 12,2022"
+                    },
+                    "title":{
+                        "id":"TitleExplore6",
+                        "formattedMessage":"How to build secure amd efficient fintech solution "
+                    },
+                   
+                    "Link":{
+                        "id":"ReadMore",
+                        "formattedMessage":"Read more"
+                    }
+                    
+                }
+    
+    
+            
+        ]
+        
+    
+
+    
+}
+
+    
+   
